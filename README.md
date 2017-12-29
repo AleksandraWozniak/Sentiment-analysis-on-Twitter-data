@@ -1,5 +1,5 @@
-# Sentiment-analysis-on-Twitter-data
-Sentiment analysis on Twitter data
+# Sentiment-analysis-on-Twitter-data in Python
+Sentiment analysis on Twitter data in Python
 
 1. Purpose of the project
 
